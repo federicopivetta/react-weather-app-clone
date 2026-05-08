@@ -93,6 +93,7 @@ const Home = () => {
         <br />
         <br />
 
+        {/* TODO
         <Button
           text="today's weather"
           style={customBtnStyle}
@@ -101,6 +102,7 @@ const Home = () => {
             click(event);
           }}
         />
+        */}
       </div>
     </React.Fragment>
   );
